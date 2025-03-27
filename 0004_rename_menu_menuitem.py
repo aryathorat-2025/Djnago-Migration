@@ -3,6 +3,7 @@
 from django.db import migrations
 
 
+
 class Migration(migrations.Migration):
     dependencies = [
         ("restaurant", "0003_remove_booking_name_booking_user"),
